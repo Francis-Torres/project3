@@ -1,0 +1,156 @@
+/**
+  *For every page
+  */
+  
+.center-text {
+  text-align: center;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.border-bottom {
+  border-bottom: 1px solid black;
+}
+.clear {
+  clear: both;
+}
+img {
+  width: 335px;
+  height:300px;
+}
+
+/**
+  *navigation bar
+  */
+  
+#main-navbar {
+  overflow: hidden;
+  background-color: #CCCCFF;
+  font-family: 'Milkshake',cursive;
+}
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#main-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+  font-size: 20px;
+}
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: black;
+  text-decoration: none;
+}
+#main-navbar ul li a:hover {
+  background-color: #443266;
+  color: white;
+}
+#onpage {
+  text-decoration: underline;
+}
+body {
+background-color: #D3D3D3
+}
+
+/**
+  *page 1- resume css
+  */
+
+.resumebackground {
+  background-color: #CCCCFF;
+}
+#resume{
+  width: 75%;
+  margin: 0 auto 5% auto;
+  padding: 2% 1% 1% 1%;
+  background-color: #F5FFFA;
+}
+
+/**
+  *page 2- Hobbies css
+  */
+.hobbiesbackground {
+	background-color: #FFFFE0;
+}
+.back1 {
+  background-color: #C4A484;
+  border-radius: 30px;
+  margin: 30px auto;
+  width: 1150px;
+  padding: 35px;
+  align-items: center;
+  justify-content: center;
+}
+.back2 {
+  background-color: #ADD8E6;
+  border-radius: 30px;
+  margin: 30px auto;
+  width: 1150px;
+  padding: 35px;
+  align-items: center;
+  justify-content: center;
+}
+.back3 {
+  background-color: #99C68E;
+  border-radius: 30px;
+  margin: 30px auto;
+  width: 1150px;
+  padding: 35px;
+  align-items: center;
+  justify-content: center;
+}
+
+/**
+  *page 2- DannyD. css
+  */
+#dan {
+  background-color: #7688b7;
+}
+.even-columns {
+	display:flex;
+	column-gap: normal;
+}
+.even-columns > *{
+	flex-basis: 100%;
+}
+.matildaback {
+  background-image: linear-gradient(pink, pink, purple);
+  margin: 30px auto;
+  width: 1150px;
+  padding: 40px;
+  align-items: center;
+  justify-content: center;
+}
+.herculesback {
+  background-image: linear-gradient(lightblue, lightblue, lightgreen);
+  margin: 30px auto;
+  width: 1150px;
+  padding: 40px;
+  align-items: center;
+  justify-content: center;
+}
+.loraxback {
+  background-image: linear-gradient(lightyellow, lightyellow, orange);
+  margin: 30px auto;
+  width: 1150px;
+  padding: 40px;
+  align-items: center;
+  justify-content: center;
+}
+

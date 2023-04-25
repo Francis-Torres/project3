@@ -154,3 +154,24 @@ background-color: #D3D3D3
   justify-content: center;
 }
 
+/*page 4*/
+#page4box {
+  width: 950px;
+  height: 700px;
+  background-color: #CCCCFF;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+#4back {
+  width: 800px;
+  height: 600px;
+  background-color: #CCCFFF;
+  margin: 30px auto;
+}
+
+.map-background {
+  background-color: #CFCCFF;
+  margin: 10px;
+}
+

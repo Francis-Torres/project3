@@ -155,23 +155,22 @@ background-color: #D3D3D3
 }
 
 /*page 4*/
-#page4box {
+#wrapper {
   width: 950px;
   height: 700px;
-  background-color: #CCCCFF;
+  background-color: #ff0000;
   margin: 0 auto;
   overflow: hidden;
 }
 
-#4back {
+#canvas {
   width: 800px;
   height: 600px;
-  background-color: #CCCFFF;
+  background-color: #0000FF;
   margin: 30px auto;
 }
 
 .map-background {
-  background-color: #CFCCFF;
+  background-color: #CD5C5C;
   margin: 10px;
 }
-

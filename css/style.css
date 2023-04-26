@@ -158,7 +158,7 @@ background-color: #D3D3D3
 #wrapper {
   width: 950px;
   height: 700px;
-  background-color: #ff0000;
+  background-color: #29a329;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -166,11 +166,11 @@ background-color: #D3D3D3
 #canvas {
   width: 800px;
   height: 600px;
-  background-color: #0000FF;
+  background-color: #29a329;
   margin: 30px auto;
 }
 
 .map-background {
-  background-color: #CD5C5C;
+  background-color: #99e699;
   margin: 10px;
 }

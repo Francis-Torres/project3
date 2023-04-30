@@ -82,6 +82,22 @@ background-color: #D3D3D3
   background-color: #F5FFFA;
 }
 
+/*resume-mobile edit*/
+@media screen and (max-width: 767px) {
+  #resume-outline {
+    width: 90%; 
+    margin: 5% auto; 
+  }
+  #main-navbar ul li {
+    display: block; 
+    float: none; 
+  }
+  #main-navbar ul li a {
+    padding: 10px;
+    font-size: 16px; 
+  }
+}
+
 /**
   *page 2- Hobbies css
   */
